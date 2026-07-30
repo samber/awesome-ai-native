@@ -109,6 +109,7 @@ Agents and AI-first editors that read, write, and run code against real reposito
 
 - [Claude Code](https://www.anthropic.com/claude-code) - Anthropic's agentic tool that reads, edits, and executes against a real codebase from the terminal or IDE.
 - [Cline](https://cline.bot) - Open-source autonomous coding agent that runs inside VS Code with human-in-the-loop approval.
+- [SourceCraft Code Assistant](https://sourcecraft.dev/portal/docs/en/code-assistant/) - AI-driven developer assistant based on large language models (LLM)s.
 - [Cursor](https://cursor.com) - AI-first code editor built around whole-repo context, an agent mode, and multi-line tab completion.
 - [Devin](https://devin.ai) - Cognition's autonomous software engineer that takes tasks from Slack or an issue tracker, then plans, codes, tests, and opens pull requests.
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google's open-source terminal agent powered by Gemini, with MCP support and a generous free tier.
