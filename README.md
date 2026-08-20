@@ -211,6 +211,7 @@ Clinical documentation, medical answer engines, and AI applied to drug discovery
 
 - [Abridge](https://www.abridge.com) - Ambient clinical documentation used in major health systems to generate notes during patient visits.
 - [Isomorphic Labs](https://www.isomorphiclabs.com) - Alphabet/DeepMind spinout applying AI foundation models to drug discovery and molecular design.
+- [Medical Scribe](https://medicalscribe.app) - AI ambient documentation assistant that turns patient interactions and dictations into customizable SOAP and EMR-ready notes.
 - [Nabla](https://www.nabla.com) - Ambient AI assistant for clinicians that writes structured notes from the consultation audio.
 - [OpenEvidence](https://www.openevidence.com) - Medical answer engine for clinicians grounded in peer-reviewed literature.
 - [Owkin](https://www.owkin.com) - AI biotech for drug discovery and diagnostics, training multimodal models on data from hospitals worldwide.
