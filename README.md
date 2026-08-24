@@ -204,6 +204,7 @@ Platforms for legal research, drafting, review, and litigation analytics used in
 - [Ironclad](https://ironcladapp.com/product/ai) - Contract review and redlining built into Ironclad's CLM.
 - [Legora](https://legora.com) - Collaborative legal AI platform for research, drafting, and review, adopted across law firms worldwide.
 - [Lex Machina](https://lexmachina.com) - Legal analytics platform mining litigation data to predict case outcomes and inform strategy.
+- [SpecterAI](https://www.specterlaw.ai) - Source-backed legal AI platform for German law that combines research, document analysis, drafting, and case workflows.
 
 ### Healthcare
 
