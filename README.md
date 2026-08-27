@@ -164,6 +164,7 @@ Notes and knowledge bases that ground AI in your own documents and surface what'
 - [Mem](https://get.mem.ai) - Self-organizing notes app that surfaces related notes and drafts follow-ups on demand.
 - [Notion MCP](https://developers.notion.com/docs/mcp) - Notion's official MCP server that lets AI agents and assistants search, read, and update a Notion workspace.
 - [Obsidian](https://obsidian.md) - Local-first markdown knowledge base with a large plugin ecosystem for AI assistants, semantic search, and note generation.
+- [Screenpipe](https://screenpipe.com) - Local-first computer history that records screen and audio, then lets AI agents search and reason over past work.
 
 ### Meetings and voice
 
