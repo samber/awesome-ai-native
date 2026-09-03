@@ -9,6 +9,9 @@
     api_host: 'https://hogpost.samber.dev', // managed reverse proxy, org-level
     ui_host: 'https://us.posthog.com', // required when api_host is a proxy, so in-app links and the toolbar resolve
     defaults: '2026-01-30',
+    // Visitors never log in, so 'identified_only' (the value implied by `defaults`) would leave every
+    // event without a person profile and person-level reports empty. Identified events bill higher.
+    person_profiles: 'always',
     disable_session_recording: true,
     // autocapture: false,
   });
