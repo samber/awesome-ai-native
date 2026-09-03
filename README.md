@@ -357,6 +357,8 @@ GPU clouds, hosted inference, and fine-tuning platforms for deploying models at 
 
 - [Adaptive ML](https://www.adaptive-ml.com) - Reinforcement-learning platform for post-training, evaluating, and serving enterprise-specialized open models.
 - [CoreWeave](https://www.coreweave.com) - GPU cloud purpose-built for AI, offering large-scale NVIDIA clusters for training and inference.
+- [DeepInfra](https://deepinfra.com) - Serverless inference cloud for open-weight models across text, embeddings, speech, image, and video, billed per token with no minimums and no idle GPU charges.
+- [Edgee](https://edgee.ai) - Agent gateway that sits between coding agents and LLM providers, applying budget-driven routing, gateway-side token compression, and per-developer cost attribution across Claude Code, Codex, Cursor, and Copilot.
 - [Fireworks AI](https://fireworks.ai) - Inference and fine-tuning platform for open-weight models with low-latency routing.
 - [FlexAI](https://flex.ai) - Universal AI compute platform that abstracts heterogeneous hardware so developers can train, fine-tune, and serve models without managing infrastructure.
 - [Hugging Face](https://huggingface.co) - The hub for open models, datasets, and Spaces, plus the Transformers library and hosted inference that anchor the open-source AI ecosystem.
