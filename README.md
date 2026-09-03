@@ -38,7 +38,10 @@ The bar is deliberately high. "AI-powered" sidebars, summarize buttons, and sema
 - [Compute & infrastructure](#compute--infrastructure)
   - [AI chips and hardware](#ai-chips-and-hardware)
   - [Local inference](#local-inference)
-  - [Developer infrastructure](#developer-infrastructure)
+  - [GPU clouds](#gpu-clouds)
+  - [Hosted inference and fine-tuning](#hosted-inference-and-fine-tuning)
+  - [Serving and orchestration](#serving-and-orchestration)
+  - [Gateways and routing](#gateways-and-routing)
   - [Sandboxes](#sandboxes)
 - [Developer tooling](#developer-tooling)
   - [Frameworks and SDKs](#frameworks-and-sdks)
@@ -351,27 +354,42 @@ Engines and apps for running models on your own CPUs and GPUs.
 - [vLLM](https://github.com/vllm-project/vllm) - High-throughput inference and serving library using PagedAttention and continuous batching for production deployment.
 - [ZML](https://zml.ai) - Zig-based inference stack that compiles models into standalone native binaries across NVIDIA, AMD, TPU, and Trainium with zero Python dependencies.
 
-### Developer infrastructure
+### GPU clouds
 
-GPU clouds, hosted inference, and fine-tuning platforms for deploying models at scale.
+Providers renting raw GPU capacity, on demand or reserved, for training and inference workloads.
+
+- [CoreWeave](https://www.coreweave.com) - GPU cloud purpose-built for AI, offering large-scale NVIDIA clusters for training and inference.
+- [Koyeb](https://www.koyeb.com) - Serverless platform for deploying AI inference and apps on autoscaling CPUs and GPUs worldwide.
+- [Lambda](https://lambda.ai) - GPU cloud offering on-demand and reserved NVIDIA clusters for training and inference.
+- [Nebius](https://nebius.com) - AI-focused cloud providing GPU compute, managed inference, and ML tooling.
+- [RunPod](https://www.runpod.io) - GPU cloud with on-demand and serverless GPUs for training and inference.
+
+### Hosted inference and fine-tuning
+
+Managed platforms that serve, fine-tune, and post-train models behind an API, with no infrastructure to operate.
 
 - [Adaptive ML](https://www.adaptive-ml.com) - Reinforcement-learning platform for post-training, evaluating, and serving enterprise-specialized open models.
-- [CoreWeave](https://www.coreweave.com) - GPU cloud purpose-built for AI, offering large-scale NVIDIA clusters for training and inference.
 - [DeepInfra](https://deepinfra.com) - Serverless inference cloud for open-weight models across text, embeddings, speech, image, and video, billed per token with no minimums and no idle GPU charges.
-- [Edgee](https://edgee.ai) - Agent gateway that sits between coding agents and LLM providers, applying budget-driven routing, gateway-side token compression, and per-developer cost attribution across Claude Code, Codex, Cursor, and Copilot.
 - [Fireworks AI](https://fireworks.ai) - Inference and fine-tuning platform for open-weight models with low-latency routing.
 - [FlexAI](https://flex.ai) - Universal AI compute platform that abstracts heterogeneous hardware so developers can train, fine-tune, and serve models without managing infrastructure.
 - [Hugging Face](https://huggingface.co) - The hub for open models, datasets, and Spaces, plus the Transformers library and hosted inference that anchor the open-source AI ecosystem.
-- [Koyeb](https://www.koyeb.com) - Serverless platform for deploying AI inference and apps on autoscaling CPUs and GPUs worldwide.
-- [Lambda](https://lambda.ai) - GPU cloud offering on-demand and reserved NVIDIA clusters for training and inference.
+- [Replicate](https://replicate.com) - Hosted registry and inference layer for open-source models.
+- [Together AI](https://www.together.ai) - Inference, fine-tuning, and training platform for open-weight models.
+
+### Serving and orchestration
+
+Self-hosted stacks that schedule, scale, and coordinate model serving across nodes.
+
 - [llm-d](https://llm-d.ai) - Red Hat-led, Kubernetes-native distributed inference framework built on vLLM for serving LLMs at scale.
-- [Nebius](https://nebius.com) - AI-focused cloud providing GPU compute, managed inference, and ML tooling.
 - [NVIDIA Dynamo](https://github.com/ai-dynamo/dynamo) - Open-source datacenter-scale orchestration layer that coordinates vLLM, SGLang, and TensorRT-LLM into distributed multi-node inference.
 - [NVIDIA NIM](https://developer.nvidia.com/nim) - Prebuilt, containerized inference microservices for deploying optimized model endpoints across cloud, data center, and workstation.
+
+### Gateways and routing
+
+Proxies sitting in front of model providers to route, meter, and govern traffic.
+
+- [Edgee](https://edgee.ai) - Agent gateway that sits between coding agents and LLM providers, applying budget-driven routing, gateway-side token compression, and per-developer cost attribution across Claude Code, Codex, Cursor, and Copilot.
 - [OpenRouter](https://openrouter.ai) - Unified API and marketplace routing requests across hundreds of models and providers.
-- [Replicate](https://replicate.com) - Hosted registry and inference layer for open-source models.
-- [RunPod](https://www.runpod.io) - GPU cloud with on-demand and serverless GPUs for training and inference.
-- [Together AI](https://www.together.ai) - Inference, fine-tuning, and training platform for open-weight models.
 
 ### Sandboxes
 
