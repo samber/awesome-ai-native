@@ -3,6 +3,7 @@ import { getAllSections } from '../lib/readme';
 import PostHog from '../components/posthog.astro';
 import Analytics from '../components/analytics.astro';
 import Ahrefs from '../components/ahrefs.astro';
+import GithubCta from '../components/GithubCta.astro';
 import SiteFooter from '../components/SiteFooter.astro';
 import '../styles/global.css';
 
@@ -138,7 +139,8 @@ const jsonLd = {
         </h1>
         <p class="hero-desc">{meta.description}</p>
         <div class="hero-actions" style="margin-top: 1.25rem;">
-          <a href={BASE} class="hero-cta" style="font-size: 0.875rem;">
+          <GithubCta compact />
+          <a href={BASE} class="hero-cta-ghost">
             ← Back to full list
           </a>
         </div>
