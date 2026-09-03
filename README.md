@@ -291,6 +291,7 @@ LLM families released with downloadable weights you can run, fine-tune, and self
 - [GLM](https://z.ai) - Open-weight General Language Model family from Z.ai, formerly Zhipu AI, targeting long-horizon agentic and coding tasks.
 - [gpt-oss](https://github.com/openai/gpt-oss) - OpenAI's open-weight reasoning models released under Apache 2.0 and designed to run on single-GPU or consumer hardware.
 - [Kimi](https://huggingface.co/moonshotai) - Moonshot AI's Kimi family of large mixture-of-experts open-weight models, strong on agentic and coding tasks.
+<!--lint ignore awesome-spell-check-->
 - [Llama](https://www.llama.com) - Meta's widely deployed open model family, with natively multimodal mixture-of-experts architectures.
 - [MiniMax](https://www.minimax.io) - Lab releasing frontier-class open-weight reasoning and coding models under MIT-style licenses.
 - [Mistral](https://mistral.ai) - Lab releasing open-weight dense and mixture-of-experts models under Apache 2.0.
@@ -521,6 +522,7 @@ The research papers that define modern LLMs: architecture, scaling, reasoning, a
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - Vaswani et al., 2017. The transformer: self-attention, multi-head attention, and positional encoding, the architecture everything else builds on.
 - [Chain-of-Thought Prompting](https://arxiv.org/abs/2201.11903) - Wei et al., 2022. Showed reasoning can be elicited by prompting alone; the conceptual seed for later reasoning work.
 - [DeepSeek-R1](https://arxiv.org/abs/2501.12948) - Guo et al., 2025. Reasoning behavior emerging from reinforcement learning (GRPO) rather than prompting or SFT; the current post-training frontier.
+<!--lint ignore awesome-spell-check-->
 - [FlashAttention](https://arxiv.org/abs/2205.14135) - Dao et al., 2022. IO-aware exact attention that treats the GPU memory hierarchy as the real bottleneck, which is why long context and cheap inference are practical.
 - [Kimi k1.5: Scaling RL with LLMs](https://arxiv.org/abs/2501.12599) - Moonshot AI, 2025. The other major RL-reasoning report alongside DeepSeek-R1, with more long-context and infrastructure detail; together they define the reasoning-model recipe.
 - [RULER](https://arxiv.org/abs/2404.06654) - Hsieh et al., 2024. Benchmark measuring the real usable context length of long-context models beyond simple retrieval.

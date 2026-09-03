@@ -17,7 +17,7 @@ function githubSlug(text: string): string {
 
 function preprocessMarkdown(md: string): string {
   // Strip awesome-lint pragma comments
-  md = md.replace(/<!--lint\s+(disable|enable)[^>]*-->\n?/g, '');
+  md = md.replace(/<!--lint\s+(disable|enable|ignore)[^>]*-->\n?/g, '');
 
   // Strip <div align="center"> wrappers — marked does not parse markdown inside HTML blocks,
   // so the H1 heading and badges would render as raw text. Removing the wrapper lets marked
