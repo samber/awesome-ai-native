@@ -4,6 +4,11 @@
 
 The bar is deliberately high. "AI-powered" sidebars, summarize buttons, and semantic search bolted onto legacy products do not belong here. Links point at the product itself, and entries are dropped once a product shuts down or pivots away from AI.
 
+See also:
+
+- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - Collection of Prometheus alerting rules.
+- [awesome-user-research](https://github.com/samber/awesome-user-research) - Tools for Product Managers and UX Researchers.
+
 ## Contents
 
 - [Chat & agents](#chat--agents)
