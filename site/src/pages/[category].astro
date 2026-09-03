@@ -2,6 +2,7 @@
 import { getAllSections } from '../lib/readme';
 import PostHog from '../components/posthog.astro';
 import Analytics from '../components/analytics.astro';
+import Ahrefs from '../components/ahrefs.astro';
 import SiteFooter from '../components/SiteFooter.astro';
 import '../styles/global.css';
 
@@ -122,6 +123,7 @@ const jsonLd = {
 
     <PostHog />
     <Analytics />
+    <Ahrefs />
   </head>
   <body>
     <div class="hero" style="padding: 2.5rem 1rem;">
