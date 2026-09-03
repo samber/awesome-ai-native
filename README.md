@@ -6,6 +6,7 @@ The bar is deliberately high. "AI-powered" sidebars, summarize buttons, and sema
 
 See also:
 
+- [awesome-olap](https://github.com/samber/awesome-olap) - OLAP databases, data lakes and data engineering tools.
 - [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - Collection of Prometheus alerting rules.
 - [awesome-user-research](https://github.com/samber/awesome-user-research) - Tools for Product Managers and UX Researchers.
 
