@@ -27,10 +27,12 @@ Key formatting rules enforced by awesome-lint:
 - All headings must appear in the `## Contents` ToC
 - Table pipes must be aligned
 
+The `awesome-spell-check` rule flags proper nouns it mistakes for technology terms (`Llama` the Meta model, `Dao` the researcher). Silence a genuine false positive with `<!--lint ignore awesome-spell-check-->` on the line directly above the entry — never reword a correct name to satisfy the linter.
+
 ## Site (site/)
 
 The site is a minimal Astro static site. It reads `../README.md` at build time via `site/src/lib/readme.ts`, which:
-- Strips `<!--lint disable/enable-->` pragma comments
+- Strips `<!--lint disable/enable/ignore-->` pragma comments
 - Parses Markdown with `marked` (GFM tables + raw HTML)
 - Wraps `<table>` in `<div class="table-wrapper">` for responsive scroll
 - Rewrites relative `.md` links to GitHub URLs
