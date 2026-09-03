@@ -2,6 +2,8 @@
 import { execFileSync } from 'node:child_process';
 import { resolve } from 'node:path';
 import { readFileSync } from 'node:fs';
+import PostHog from '../components/posthog.astro';
+import Analytics from '../components/analytics.astro';
 
 const SITE_URL = 'https://samber.github.io/awesome-ai-native/';
 
@@ -118,6 +120,9 @@ const jsonLd = {
     <meta name="robots" content="index, follow" />
     <meta name="author" content="Samuel Berthe" />
     <link rel="canonical" href={SITE_URL} />
+
+    <!-- Google Search Console ownership proof for the URL-prefix property. Removing it un-verifies the property. -->
+    <meta name="google-site-verification" content="0eAhRs43bpa9oRa-zAVjWLYK93eKcZZztlnF3Vq_4BE" />
     <link rel="icon" type="image/svg+xml" href="/awesome-ai-native/favicon.svg" />
     <link rel="sitemap" type="application/xml" href="/awesome-ai-native/sitemap.xml" />
 
@@ -142,6 +147,9 @@ const jsonLd = {
 
     <!-- Structured Data -->
     <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+    <PostHog />
+    <Analytics />
   </head>
   <body>
     <div class="hero">
@@ -186,15 +194,5 @@ const jsonLd = {
     </div>
 
     <slot />
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-43Q46S2L5Y"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-43Q46S2L5Y');
-</script>
-
   </body>
 </html>

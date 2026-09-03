@@ -1,5 +1,7 @@
 ---
 import { getAllSections } from '../lib/readme';
+import PostHog from '../components/posthog.astro';
+import Analytics from '../components/analytics.astro';
 import '../styles/global.css';
 
 export function getStaticPaths() {
@@ -116,6 +118,9 @@ const jsonLd = {
 
     <!-- Structured Data -->
     <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+    <PostHog />
+    <Analytics />
   </head>
   <body>
     <div class="hero" style="padding: 2.5rem 1rem;">
