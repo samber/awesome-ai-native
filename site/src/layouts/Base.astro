@@ -4,6 +4,7 @@ import { resolve } from 'node:path';
 import { readFileSync } from 'node:fs';
 import PostHog from '../components/posthog.astro';
 import Analytics from '../components/analytics.astro';
+import SiteFooter from '../components/SiteFooter.astro';
 
 const SITE_URL = 'https://samber.github.io/awesome-ai-native/';
 
@@ -194,5 +195,7 @@ const jsonLd = {
     </div>
 
     <slot />
+
+    <SiteFooter />
   </body>
 </html>

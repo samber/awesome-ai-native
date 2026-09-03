@@ -2,6 +2,7 @@
 import { getAllSections } from '../lib/readme';
 import PostHog from '../components/posthog.astro';
 import Analytics from '../components/analytics.astro';
+import SiteFooter from '../components/SiteFooter.astro';
 import '../styles/global.css';
 
 export function getStaticPaths() {
@@ -145,6 +146,8 @@ const jsonLd = {
     <main class="content">
       <Fragment set:html={html} />
     </main>
+
+    <SiteFooter />
   </body>
 </html>
 
