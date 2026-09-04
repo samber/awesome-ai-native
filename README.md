@@ -397,6 +397,7 @@ Proxies sitting in front of model providers to route, meter, and govern traffic.
 
 - [Edgee](https://edgee.ai) - Agent gateway that sits between coding agents and LLM providers, applying budget-driven routing, gateway-side token compression, and per-developer cost attribution across Claude Code, Codex, Cursor, and Copilot.
 - [OpenRouter](https://openrouter.ai) - Unified API and marketplace routing requests across hundreds of models and providers.
+- [XiuRouter](https://router.xiu.ai) - Hosted model API gateway with client-specific setup paths for coding agents and applications, including Codex, Claude Code, Cursor, OpenCode, and Cline.
 
 ### Sandboxes
 
