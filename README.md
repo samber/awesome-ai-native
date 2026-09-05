@@ -21,6 +21,7 @@ See also:
   - [Coding agents](#coding-agents)
   - [Code understanding and docs](#code-understanding-and-docs)
   - [App builders](#app-builders)
+  - [Testing and QA](#testing-and-qa)
 - [Knowledge work](#knowledge-work)
   - [Search and research](#search-and-research)
   - [Knowledge management](#knowledge-management)
@@ -151,6 +152,12 @@ Pure vibe-coding platforms that turn a plain-language description into a working
 - [Lovable](https://lovable.dev) - Prompt-to-app builder that ships full-stack web apps from a chat window.
 - [Replit Agent](https://replit.com/agent) - Browser-based agent that builds, runs, and deploys full-stack applications from natural-language prompts.
 - [v0](https://v0.app) - Vercel's generative UI tool that produces production-ready React and Tailwind components.
+
+### Testing and QA
+
+Tools that use language models to author and execute application tests.
+
+- [Agent QA](https://github.com/vostride/agent-qa) - Uses LLMs to run natural-language web, Android, and iOS tests with execution memory and UI recovery; source-available under FSL-1.1-ALv2.
 
 ## Knowledge work
 
