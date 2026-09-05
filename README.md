@@ -471,6 +471,7 @@ Where to keep up and go deeper: newsletters, podcasts, people to follow, courses
 
 Writers and publications covering AI engineering, research, and industry economics.
 
+- [AI Weekly](https://aiweekly.co) - Ranks and explains what influential AI experts and organizations are reading and sharing.
 - [Chip Huyen](https://huyenchip.com) - Essays on ML systems, AI engineering, and shipping models to production.
 - [Eugene Yan](https://eugeneyan.com) - Applied scientist writing on ML systems design, LLM evals, and recommender systems.
 - [Hamel Husain's Blog](https://hamel.dev) - Practical writing on LLM evaluation, fine-tuning, and shipping ML products.
