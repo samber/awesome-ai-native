@@ -171,6 +171,7 @@ Notes and knowledge bases that ground AI in your own documents and surface what'
 
 - [Gemini Notebook (formerly NotebookLM)](https://notebooklm.google) - Google's research and note-taking tool that grounds answers in your uploaded sources and generates audio and video overviews.
 - [Mem](https://get.mem.ai) - Self-organizing notes app that surfaces related notes and drafts follow-ups on demand.
+- [Musuw](https://app.musuw.com) - AI knowledge workspace that answers questions from personal documents with citations and organizes sources into connected Wiki pages and knowledge graphs.
 - [Notion MCP](https://developers.notion.com/docs/mcp) - Notion's official MCP server that lets AI agents and assistants search, read, and update a Notion workspace.
 - [Obsidian](https://obsidian.md) - Local-first markdown knowledge base with a large plugin ecosystem for AI assistants, semantic search, and note generation.
 
