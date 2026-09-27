@@ -245,6 +245,7 @@ Generative tools for producing and editing visual, audio, and video content, fro
 Generative design canvases that turn prompts into editable visuals, prototypes, and production assets.
 
 - [Claude Design](https://claude.ai/design) - Anthropic Labs tool that turns prompts into designs, prototypes, slides, and decks and can apply your team's design system.
+- [kdpbook.io](https://kdpbook.io) - Chat-driven book studio where an LLM plans and writes a whole book and image models illustrate it with consistent characters, then exports it as Amazon KDP print and Kindle files.
 - [Krea](https://www.krea.ai) - Real-time generative canvas for image, video, and 3D creation.
 - [Pencil](https://www.pencil.dev) - AI-native design canvas for developers that generates editable designs and production-ready code from a VS Code or Cursor integration.
 - [Photoroom](https://www.photoroom.com) - AI photo editor and product-image studio with instant background removal and generative editing.
