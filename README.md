@@ -39,6 +39,7 @@ See also:
 - [Models & robotics](#models--robotics)
   - [Open-weight models](#open-weight-models)
   - [Small language models](#small-language-models)
+  - [Decision models](#decision-models)
   - [Robotics and embodied AI](#robotics-and-embodied-ai)
   - [OCR](#ocr)
 - [Compute & infrastructure](#compute--infrastructure)
@@ -313,6 +314,13 @@ Compact models tuned to run efficiently on-device or on modest hardware.
 - [Phi](https://azure.microsoft.com/en-us/products/phi) - Microsoft's family of small open-weight models emphasizing strong reasoning at small parameter counts.
 - [Pleias](https://pleias.ai) - Lab training small open-weight models exclusively on public-domain and permissibly licensed data, alongside the fully open Common Corpus dataset.
 - [SmolLM](https://github.com/huggingface/smollm) - Hugging Face's fully open family of small text and vision models, with training data and code released for on-device use.
+
+### Decision models
+
+Non-autoregressive models that skip text generation and return typed, calibrated decisions instead, for routing, classification, and other structured judgment calls.
+
+- [Jev](https://typesafe.ai) - TypeSafe AI's System One model that returns typed, calibrated decisions instead of text, for automated routing, classification, and safety checks.
+- [Laya](https://laya.convaiinnovations.com) - Open-weight, Apache-licensed decision model that returns typed choices, scores, and yes/no judgments with calibrated probabilities across 100+ languages.
 
 ### Robotics and embodied AI
 
