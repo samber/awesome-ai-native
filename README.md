@@ -88,6 +88,7 @@ Agents that plan and execute multi-step tasks across your tools, often specializ
 - [Claude Cowork](https://www.anthropic.com/product/claude-cowork) - Anthropic's agent for non-coding knowledge work that runs background and scheduled tasks across shared projects and files.
 - [Dust](https://dust.tt) - Enterprise platform for building no-code AI agents grounded in company data through 100+ connectors, where teams and agents collaborate in a shared workspace.
 - [Manus](https://manus.im) - General-purpose agent that plans, browses, writes code, and returns finished deliverables.
+- [Meta Muse](https://ai.meta.com/muse) - Meta's proactive personal AI agent that plans and completes tasks across your apps from its own secure VM.
 - [Swiftask](https://www.swiftask.ai) - No-code platform for building and orchestrating multi-model AI agents across a company's tools, with centralized governance.
 
 ### Self-hosted personal AI agents
@@ -124,6 +125,7 @@ Agents and AI-first editors that read, write, and run code against real reposito
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google's open-source terminal agent powered by Gemini, with MCP support and a generous free tier.
 - [GitHub Copilot](https://github.com/features/copilot) - Inline completion and an agent mode that edits across files and opens pull requests, integrated across GitHub and popular IDEs.
 - [Google Antigravity](https://antigravity.google) - Agent-first development platform built around Gemini that orchestrates autonomous agents across editor, terminal, and browser.
+- [Grok Build](https://github.com/xai-org/grok-build) - xAI's open-source, Rust-based terminal coding agent that can run fully local-first against your own inference.
 - [Mistral Vibe](https://mistral.ai/products/vibe/code) - Mistral's terminal and IDE coding agent with cloud-based remote agents, built on the open-source mistral-vibe CLI.
 - [OpenAI Codex](https://openai.com/codex) - OpenAI's coding agent spanning CLI, IDE, cloud, and web.
 - [OpenCode](https://opencode.ai) - Provider-agnostic, open-source terminal coding agent.
