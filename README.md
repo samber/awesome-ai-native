@@ -89,6 +89,7 @@ Agents that plan and execute multi-step tasks across your tools, often specializ
 - [Dust](https://dust.tt) - Enterprise platform for building no-code AI agents grounded in company data through 100+ connectors, where teams and agents collaborate in a shared workspace.
 - [Manus](https://manus.im) - General-purpose agent that plans, browses, writes code, and returns finished deliverables.
 - [Meta Muse](https://ai.meta.com/muse) - Meta's proactive personal AI agent that plans and completes tasks across your apps from its own secure VM.
+- [OneBox](https://github.com/wangzhishou/OneBox) - Open-source Android app whose built-in AI agent plans and executes tasks across 90+ in-app tools.
 - [Swiftask](https://www.swiftask.ai) - No-code platform for building and orchestrating multi-model AI agents across a company's tools, with centralized governance.
 
 ### Self-hosted personal AI agents
