@@ -130,6 +130,7 @@ Agents and AI-first editors that read, write, and run code against real reposito
 - [OpenAI Codex](https://openai.com/codex) - OpenAI's coding agent spanning CLI, IDE, cloud, and web.
 - [OpenCode](https://opencode.ai) - Provider-agnostic, open-source terminal coding agent.
 - [Poolside](https://poolside.ai) - Enterprise coding assistant powered by its own foundation models, deployed inside a customer's environment and tuned on their codebases.
+- [Sillage](https://github.com/MarlBurroW/sillage) - Self-hosted, mobile-first web UI that runs the native Claude Code and Codex CLIs on your own machine from a browser or phone, with git worktrees, full-text search over every conversation, and an IDE panel.
 - [Windsurf](https://windsurf.com) - Agentic IDE with Cascade, a multi-step coding agent that operates across files.
 - [Zed](https://zed.dev) - Collaborative editor written in Rust with first-class agent panels and multi-model support.
 
