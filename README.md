@@ -77,6 +77,7 @@ General-purpose conversational assistants you talk to across web, mobile, and de
 - [Claude](https://claude.ai) - Anthropic's assistant known for long-context reasoning, Projects, Artifacts, and Computer Use.
 - [Gemini](https://gemini.google.com) - Google's multimodal assistant integrated across Workspace, Android, and the Pixel line.
 - [Grok](https://grok.com) - xAI's assistant with real-time access to X and a distinct, less-filtered persona.
+- [Honer AI](https://honer-ai.itch.io/honer-ai-android) - Russian and English Android assistant with cloud AI chat, web search, image and document analysis, voice input, and conversation history.
 - [Meta AI](https://www.meta.ai) - Assistant embedded across WhatsApp, Instagram, Messenger, and Ray-Ban Meta glasses.
 - [Vibe](https://mistral.ai/products/vibe) - Mistral's assistant, formerly Le Chat, unifying chat, work automation, and remote coding agents.
 
