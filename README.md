@@ -154,6 +154,7 @@ Pure vibe-coding platforms that turn a plain-language description into a working
 - [Lovable](https://lovable.dev) - Prompt-to-app builder that ships full-stack web apps from a chat window.
 - [Replit Agent](https://replit.com/agent) - Browser-based agent that builds, runs, and deploys full-stack applications from natural-language prompts.
 - [v0](https://v0.app) - Vercel's generative UI tool that produces production-ready React and Tailwind components.
+- [Vibld](https://vibld.com) - Open-source prompt-to-app builder where an LLM plans and generates a plain React, TypeScript, and Vite repo that publishes to GitHub, Cloudflare, or Docker.
 
 ## Knowledge work
 
