@@ -90,6 +90,7 @@ Agents that plan and execute multi-step tasks across your tools, often specializ
 - [Manus](https://manus.im) - General-purpose agent that plans, browses, writes code, and returns finished deliverables.
 - [Meta Muse](https://ai.meta.com/muse) - Meta's proactive personal AI agent that plans and completes tasks across your apps from its own secure VM.
 - [Swiftask](https://www.swiftask.ai) - No-code platform for building and orchestrating multi-model AI agents across a company's tools, with centralized governance.
+- [Tale](https://tale.dev) - Shared workspace for assigning tasks to reusable AI agents, running coding harnesses in sandboxes, and reviewing deliverables.
 
 ### Self-hosted personal AI agents
 
