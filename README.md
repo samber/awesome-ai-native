@@ -262,6 +262,7 @@ Text-to-image models and editors for creating and refining still images.
 - [Imagen](https://deepmind.google/models/imagen) - Google DeepMind's text-to-image model generating high-resolution images with SynthID watermarking.
 - [Magnific](https://magnific.ai) - AI upscaler and enhancer that adds detail and reimagines images at high resolution.
 - [Midjourney](https://www.midjourney.com) - Generative image service known for a consistent aesthetic and a large creator community.
+- [Minglyph](https://minglyph.com) - AI typography studio generating PNG word-art concepts from words, meanings and visual styles for poster or cover titles.
 - [Nano Banana](https://deepmind.google/models/gemini-image) - Google's Gemini-based image model line known for precise, conversational editing.
 - [Seelab](https://www.seelab.ai) - AI photo studio that trains custom models on your products and brand to generate on-brand product visuals.
 
