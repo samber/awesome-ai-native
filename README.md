@@ -482,6 +482,7 @@ Where to keep up and go deeper: newsletters, podcasts, people to follow, courses
 
 Writers and publications covering AI engineering, research, and industry economics.
 
+- [Calder Brief - AI Hub](https://calder-brief.pages.dev/ai-hub.html) - Daily AI news hub covering model releases, AI research, and industry economics.
 - [Chip Huyen](https://huyenchip.com) - Essays on ML systems, AI engineering, and shipping models to production.
 - [Eugene Yan](https://eugeneyan.com) - Applied scientist writing on ML systems design, LLM evals, and recommender systems.
 - [Hamel Husain's Blog](https://hamel.dev) - Practical writing on LLM evaluation, fine-tuning, and shipping ML products.
