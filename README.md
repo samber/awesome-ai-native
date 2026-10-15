@@ -19,6 +19,7 @@ See also:
   - [Computer use models](#computer-use-models)
 - [Vibe-coding and vibe-engineering](#vibe-coding-and-vibe-engineering)
   - [Coding agents](#coding-agents)
+  - [Running agents in parallel](#running-agents-in-parallel)
   - [Code understanding and docs](#code-understanding-and-docs)
   - [App builders](#app-builders)
 - [Knowledge work](#knowledge-work)
@@ -132,6 +133,20 @@ Agents and AI-first editors that read, write, and run code against real reposito
 - [Poolside](https://poolside.ai) - Enterprise coding assistant powered by its own foundation models, deployed inside a customer's environment and tuned on their codebases.
 - [Windsurf](https://windsurf.com) - Agentic IDE with Cascade, a multi-step coding agent that operates across files.
 - [Zed](https://zed.dev) - Collaborative editor written in Rust with first-class agent panels and multi-model support.
+
+### Running agents in parallel
+
+Control planes that run several coding agents at once and show which one needs a human.
+
+- [AgentDeck](https://github.com/puritysb/AgentDeck) - Local dashboards and physical Stream Deck controls for coding agents running side by side.
+- [agent-manager](https://github.com/YoanWai/agent-manager) - Terminal dashboard for coding agents with live status, worktrees, and diff review.
+- [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) - Platform for scheduling and isolating many coding agents across your own machines.
+- [ccmanager](https://github.com/kbwo/ccmanager) - Session manager for Claude Code, Gemini CLI, Codex CLI, and Cursor Agent.
+- [Claude Squad](https://github.com/smtg-ai/claude-squad) - Terminal manager for multiple Claude Code, Codex, OpenCode, and Amp sessions.
+- [cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for coding agents.
+- [MulmoTerminal](https://github.com/receptron/mulmoterminal) - Browser grid of live Claude Code and Codex sessions, one real PTY and git worktree per cell, backed by tmux.
+- [Orca](https://github.com/stablyai/orca) - Development environment for running a fleet of parallel coding agents.
+- [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for planning, running, and reviewing tasks across many agent CLIs.
 
 ### Code understanding and docs
 
