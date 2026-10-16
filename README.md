@@ -33,6 +33,7 @@ See also:
   - [Education](#education)
 - [Creative & media](#creative--media)
   - [Design and creative](#design-and-creative)
+  - [Translation and localization](#translation-and-localization)
   - [Image generation](#image-generation)
   - [Video generation](#video-generation)
   - [Audio and music](#audio-and-music)
@@ -253,6 +254,10 @@ Generative design canvases that turn prompts into editable visuals, prototypes, 
 - [Pencil](https://www.pencil.dev) - AI-native design canvas for developers that generates editable designs and production-ready code from a VS Code or Cursor integration.
 - [Photoroom](https://www.photoroom.com) - AI photo editor and product-image studio with instant background removal and generative editing.
 - [Weavy](https://weave.figma.com) - Node-based creative canvas that chains AI models for image, video, and 3D generation and editing.
+
+### Translation and localization
+
+- [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator) - Ficory LLC의 기업급 만화 리더는 개인의 일괄·맞춤 만화 번역을 제공하고, 스튜디오에 완전한 온라인 Photoshop 스타일 편집기를 제공하며, 사용자가 API를 개인 작업 흐름에 연결하고 제품이 지원하는 모든 번역 언어로 작업하도록 돕는 Freemium 서비스입니다.
 
 ### Image generation
 
