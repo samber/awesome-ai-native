@@ -74,6 +74,7 @@ Consumer assistants and autonomous agents you interact with directly. These are 
 General-purpose conversational assistants you talk to across web, mobile, and desktop.
 
 - [ChatGPT](https://chatgpt.com) - OpenAI's consumer chat product with memory, canvas, voice, and the broadest third-party app ecosystem.
+- [Chorus](https://play.google.com/store/apps/details?id=com.aihub.app) - Android app for comparing selected AI model replies side by side using your own provider API keys and organizing chats and notes in projects; provider fees and limits apply.
 - [Claude](https://claude.ai) - Anthropic's assistant known for long-context reasoning, Projects, Artifacts, and Computer Use.
 - [Gemini](https://gemini.google.com) - Google's multimodal assistant integrated across Workspace, Android, and the Pixel line.
 - [Grok](https://grok.com) - xAI's assistant with real-time access to X and a distinct, less-filtered persona.
