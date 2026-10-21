@@ -87,6 +87,7 @@ Agents that plan and execute multi-step tasks across your tools, often specializ
 - [ChatGPT Agent](https://openai.com/index/introducing-chatgpt-agent) - OpenAI's agent that browses, uses tools, and completes multi-step web tasks on the user's behalf.
 - [Claude Cowork](https://www.anthropic.com/product/claude-cowork) - Anthropic's agent for non-coding knowledge work that runs background and scheduled tasks across shared projects and files.
 - [Dust](https://dust.tt) - Enterprise platform for building no-code AI agents grounded in company data through 100+ connectors, where teams and agents collaborate in a shared workspace.
+- [Instinct](https://instinct.com) - Personal AI agent you text or call that books travel, orders groceries, and handles errands through your connected accounts, with no app to install.
 - [Manus](https://manus.im) - General-purpose agent, now part of Meta, that plans, browses, writes code, and returns finished deliverables.
 - [Meta Muse](https://ai.meta.com/muse) - Meta's proactive personal AI agent that plans and completes tasks across your apps from its own secure VM.
 - [Swiftask](https://www.swiftask.ai) - No-code platform for building and orchestrating multi-model AI agents across a company's tools, with centralized governance.
