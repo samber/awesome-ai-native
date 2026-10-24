@@ -26,6 +26,7 @@ See also:
   - [Knowledge management](#knowledge-management)
   - [Meetings and voice](#meetings-and-voice)
 - [Industry applications](#industry-applications)
+  - [Careers](#careers)
   - [Customer support](#customer-support)
   - [Sales and CRM](#sales-and-crm)
   - [Legal](#legal)
@@ -191,6 +192,12 @@ Assistants that record, transcribe, and summarize meetings, then draft the follo
 ## Industry applications
 
 Vertical products where an LLM sits at the core of a specific profession's workflow, from customer support to law, medicine, sales, and the classroom.
+
+### Careers
+
+AI-native products for job-fit analysis, resume work, interview practice, and application management.
+
+- [JobEmerge](https://www.jobemerge.work) - An AI career copilot with a job-fit test, a 19-language resume translator and a simple Markdown resume editor. One-time pricing — nothing ever auto-renews.
 
 ### Customer support
 
