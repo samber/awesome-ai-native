@@ -167,6 +167,7 @@ Answer engines and retrieval APIs that find, cite, and synthesize sources instea
 - [Claude Science](https://www.anthropic.com/news/claude-science-ai-workbench) - Anthropic research workbench for scientists, pre-configured with scientific databases, coding tools, and compute.
 - [Exa](https://exa.ai) - Neural search API designed for agents and retrieval-heavy applications rather than human browsing.
 - [Perplexity](https://www.perplexity.ai) - Answer engine that retrieves, cites, and synthesizes web sources in place of a traditional results page.
+- [Pulse](https://pulsecorp.co) - AI-moderated customer interviews for market research, run by an AI moderator over voice, video, or chat.
 - [You.com](https://you.com) - Multi-mode AI search with agent workflows and enterprise deployments.
 
 ### Knowledge management
