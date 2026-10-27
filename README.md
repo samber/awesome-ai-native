@@ -473,6 +473,7 @@ Tracing, testing, and monitoring to measure and debug LLM and agent behavior in 
 - [Helicone](https://www.helicone.ai) - Open-source LLM observability proxy and analytics.
 - [Langfuse](https://langfuse.com) - Open-source tracing, evals, and prompt management for LLM apps.
 - [LangSmith](https://www.langchain.com/langsmith) - Tracing, evaluation, and monitoring for LangChain and plain LLM apps.
+- [NovaSynth](https://noveum.ai/en/novasynth) - Commercial freemium voice agent testing with configurable AI callers over phone or LiveKit, recordings, transcripts, and regression evaluations.
 - [Ragas](https://github.com/explodinggradients/ragas) - Open-source evaluation framework for RAG and LLM applications, with metrics for faithfulness, answer relevance, and context precision.
 
 ## Learning & community
