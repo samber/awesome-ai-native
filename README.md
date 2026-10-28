@@ -153,6 +153,7 @@ Pure vibe-coding platforms that turn a plain-language description into a working
 - [Google Opal](https://opal.google.com) - Google Labs no-code builder for creating and sharing mini AI apps as visual node workflows.
 - [Google Stitch](https://stitch.withgoogle.com) - Gemini-powered tool that turns prompts or wireframes into high-fidelity UI plus front-end code, absorbing the former Galileo AI.
 - [Lovable](https://lovable.dev) - Prompt-to-app builder that ships full-stack web apps from a chat window.
+- [Newly](https://newly.app) - AI app builder that generates native iOS and Android apps from natural-language prompts.
 - [Replit Agent](https://replit.com/agent) - Browser-based agent that builds, runs, and deploys full-stack applications from natural-language prompts.
 - [v0](https://v0.app) - Vercel's generative UI tool that produces production-ready React and Tailwind components.
 
