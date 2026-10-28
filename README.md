@@ -91,6 +91,7 @@ Agents that plan and execute multi-step tasks across your tools, often specializ
 - [Manus](https://manus.im) - General-purpose agent, now part of Meta, that plans, browses, writes code, and returns finished deliverables.
 - [Meta Muse](https://ai.meta.com/muse) - Meta's proactive personal AI agent that plans and completes tasks across your apps from its own secure VM.
 - [Swiftask](https://www.swiftask.ai) - No-code platform for building and orchestrating multi-model AI agents across a company's tools, with centralized governance.
+- [Zaru](https://myzaru.com) - Personal AI agent that works in your email, calendar and the web, shows each step in the chat as it takes it, and waits for your approval before sending a message or changing your calendar.
 
 ### Self-hosted personal AI agents
 
