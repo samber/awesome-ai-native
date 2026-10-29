@@ -441,6 +441,7 @@ Platforms for building and connecting Model Context Protocol servers and agent t
 
 - [Alpic](https://alpic.ai) - MCP-native cloud platform to build, deploy, monitor, and distribute MCP servers and ChatGPT apps.
 - [Composio](https://composio.dev) - Integration layer that connects AI agents to over a thousand tools with managed authentication, tool search, and agent-friendly APIs.
+- [TokenRip](https://tokenrip.com) - Shared workspace that AI agents connect to over MCP, where Claude, ChatGPT, Codex and Cursor read and write the same versioned files, tasks and pinned decisions so one agent can pick up another's work.
 
 ### Vector databases and retrieval
 
