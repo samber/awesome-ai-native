@@ -88,7 +88,7 @@ Agents that plan and execute multi-step tasks across your tools, often specializ
 - [Claude Cowork](https://www.anthropic.com/product/claude-cowork) - Anthropic's agent for non-coding knowledge work that runs background and scheduled tasks across shared projects and files.
 - [Dust](https://dust.tt) - Enterprise platform for building no-code AI agents grounded in company data through 100+ connectors, where teams and agents collaborate in a shared workspace.
 - [Instinct](https://instinct.com) - Personal AI agent you text or call that books travel, orders groceries, and handles errands through your connected accounts, with no app to install.
-- [Manus](https://manus.im) - General-purpose agent, now part of Meta, that plans, browses, writes code, and returns finished deliverables.
+- [Manus](https://manus.im) - General-purpose agent, whose Meta acquisition is reportedly being unwound after Chinese regulators objected, that plans, browses, writes code, and returns finished deliverables.
 - [Meta Muse](https://ai.meta.com/muse) - Meta's proactive personal AI agent that plans and completes tasks across your apps from its own secure VM.
 - [Swiftask](https://www.swiftask.ai) - No-code platform for building and orchestrating multi-model AI agents across a company's tools, with centralized governance.
 
@@ -121,7 +121,7 @@ Agents and AI-first editors that read, write, and run code against real reposito
 
 - [Claude Code](https://www.anthropic.com/claude-code) - Anthropic's agentic tool that reads, edits, and executes against a real codebase from the terminal or IDE.
 - [Cline](https://cline.bot) - Open-source autonomous coding agent that runs inside VS Code with human-in-the-loop approval.
-- [Cursor](https://cursor.com) - AI-first code editor built around whole-repo context, an agent mode, and multi-line tab completion, being acquired by SpaceX.
+- [Cursor](https://cursor.com) - AI-first code editor built around whole-repo context, an agent mode, and multi-line tab completion, acquired by SpaceX.
 - [Devin](https://devin.ai) - Cognition's autonomous software engineer that takes tasks from Slack or an issue tracker, then plans, codes, tests, and opens pull requests.
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google's open-source terminal agent powered by Gemini, with MCP support and a generous free tier.
 - [GitHub Copilot](https://github.com/features/copilot) - Inline completion and an agent mode that edits across files and opens pull requests, integrated across GitHub and popular IDEs.
@@ -272,6 +272,7 @@ Models and studios that generate and edit video, some with natively synchronized
 
 - [Google Flow](https://labs.google/fx/tools/flow) - AI filmmaking studio built on Veo and Imagen for generating and editing cinematic scenes.
 - [HeyGen](https://www.heygen.com) - Generates talking-avatar videos from a script, with voice cloning and translation for marketing and training.
+- [Higgsfield](https://higgsfield.ai) - Creative video-generation suite that puts top video models behind a single click-to-video workflow for marketers and creators.
 - [Kling](https://kling.kuaishou.com) - Kuaishou's video model with long-duration generations and strong motion coherence.
 - [Pika](https://pika.art) - Generative video app with effects-driven editing and social sharing.
 - [Runway](https://runwayml.com) - Video model suite and editor used in film and advertising production.
@@ -391,7 +392,7 @@ Managed platforms that serve, fine-tune, and post-train models behind an API, wi
 - [DeepInfra](https://deepinfra.com) - Serverless inference cloud for open-weight models across text, embeddings, speech, image, and video, billed per token with no minimums and no idle GPU charges.
 - [Fireworks AI](https://fireworks.ai) - Inference and fine-tuning platform for open-weight models with low-latency routing.
 - [FlexAI](https://flex.ai) - Universal AI compute platform that abstracts heterogeneous hardware so developers can train, fine-tune, and serve models without managing infrastructure.
-- [Hugging Face](https://huggingface.co) - The hub for open models, datasets, and Spaces, plus the Transformers library and hosted inference that anchor the open-source AI ecosystem.
+- [Hugging Face](https://huggingface.co) - The hub for open models, datasets, and Spaces, plus the Transformers library and hosted inference that anchor the open-source AI ecosystem, now being acquired by Nvidia.
 - [Replicate](https://replicate.com) - Hosted registry and inference layer for open-source models.
 - [Together AI](https://www.together.ai) - Inference, fine-tuning, and training platform for open-weight models.
 
