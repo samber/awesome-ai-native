@@ -408,8 +408,10 @@ Self-hosted stacks that schedule, scale, and coordinate model serving across nod
 
 Proxies sitting in front of model providers to route, meter, and govern traffic.
 
+- [CoderPlan](https://coderplan.ai) - Pay-as-you-go API gateway serving Claude, GPT, Gemini, Grok, and MiniMax models to Claude Code, Codex CLI, Cursor, and Gemini CLI through one key, with per-request cost metering.
 - [Edgee](https://edgee.ai) - Agent gateway that sits between coding agents and LLM providers, applying budget-driven routing, gateway-side token compression, and per-developer cost attribution across Claude Code, Codex, Cursor, and Copilot.
 - [OpenRouter](https://openrouter.ai) - Unified API and marketplace routing requests across hundreds of models and providers.
+- [Teapot Router](https://teapotrouter.com) - Team API gateway for GPT and Claude Code workloads with one shared token pool, per-request metering of model, tokens, cache hits, and cost, and organization-level key management.
 
 ### Sandboxes
 
