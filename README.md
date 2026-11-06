@@ -185,6 +185,7 @@ Assistants that record, transcribe, and summarize meetings, then draft the follo
 - [Fathom](https://fathom.video) - Meeting recorder that produces action items, CRM updates, and follow-up emails from a conversation.
 - [Fireflies](https://fireflies.ai) - Meeting assistant that records, transcribes, and answers questions across a team's call history.
 - [Granola](https://www.granola.ai) - Notepad that listens to your meetings and turns your rough notes into structured summaries.
+- [OneMira C1](https://onemira.com/products/c1) - Subscription-free AI voice recorder with local AI transcription, speaker separation, Markdown memory, and an open-source [MCP server](https://github.com/onemira-space/onemira-mcp).
 - [Otter](https://otter.ai) - Live transcription and meeting summaries with a chat interface over meeting history.
 - [Wispr Flow](https://wisprflow.ai) - AI dictation app that turns speech into polished text in any app, powered by its own Canto speech model.
 
