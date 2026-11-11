@@ -273,6 +273,7 @@ Models and studios that generate and edit video, some with natively synchronized
 - [Google Flow](https://labs.google/fx/tools/flow) - AI filmmaking studio built on Veo and Imagen for generating and editing cinematic scenes.
 - [HeyGen](https://www.heygen.com) - Generates talking-avatar videos from a script, with voice cloning and translation for marketing and training.
 - [Higgsfield](https://higgsfield.ai) - Creative video-generation suite that puts top video models behind a single click-to-video workflow for marketers and creators.
+- [HoneyVid](https://honeyvid.ai) - Puts a person, pet or character from one photo into trending video templates, or generates videos and images with Kling, Veo and Seedance, also from AI agents over MCP.
 - [Kling](https://kling.kuaishou.com) - Kuaishou's video model with long-duration generations and strong motion coherence.
 - [Pika](https://pika.art) - Generative video app with effects-driven editing and social sharing.
 - [Runway](https://runwayml.com) - Video model suite and editor used in film and advertising production.
