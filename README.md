@@ -119,6 +119,7 @@ Tools that let you build software by describing intent rather than writing every
 
 Agents and AI-first editors that read, write, and run code against real repositories.
 
+- [Althar](https://althar.ai) - Desktop ADE that turns requests into tasks, assigns coding agents to implement them, and uses another model for review.
 - [Claude Code](https://www.anthropic.com/claude-code) - Anthropic's agentic tool that reads, edits, and executes against a real codebase from the terminal or IDE.
 - [Cline](https://cline.bot) - Open-source autonomous coding agent that runs inside VS Code with human-in-the-loop approval.
 - [Cursor](https://cursor.com) - AI-first code editor built around whole-repo context, an agent mode, and multi-line tab completion, acquired by SpaceX.
