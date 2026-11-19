@@ -251,6 +251,7 @@ Generative design canvases that turn prompts into editable visuals, prototypes, 
 
 - [Claude Design](https://claude.ai/design) - Anthropic Labs tool that turns prompts into designs, prototypes, slides, and decks and can apply your team's design system.
 - [Krea](https://www.krea.ai) - Real-time generative canvas for image, video, and 3D creation.
+- [Launch Automation Redesign](https://launchautomation.ai/redesign) - Uses generative AI to create a free homepage redesign preview and provides a free SEO report on sampled public pages; finished working websites are paid services.
 - [Pencil](https://www.pencil.dev) - AI-native design canvas for developers that generates editable designs and production-ready code from a VS Code or Cursor integration.
 - [Photoroom](https://www.photoroom.com) - AI photo editor and product-image studio with instant background removal and generative editing.
 - [Weavy](https://weave.figma.com) - Node-based creative canvas that chains AI models for image, video, and 3D generation and editing.
