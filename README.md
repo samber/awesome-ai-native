@@ -90,6 +90,7 @@ Agents that plan and execute multi-step tasks across your tools, often specializ
 - [Instinct](https://instinct.com) - Personal AI agent you text or call that books travel, orders groceries, and handles errands through your connected accounts, with no app to install.
 - [Manus](https://manus.im) - General-purpose agent, whose Meta acquisition is reportedly being unwound after Chinese regulators objected, that plans, browses, writes code, and returns finished deliverables.
 - [Meta Muse](https://ai.meta.com/muse) - Meta's proactive personal AI agent that plans and completes tasks across your apps from its own secure VM.
+- [Orkas](https://orkas.ai) - An open-source desktop workspace where Commander coordinates specialist AI agents to turn goals and project files into deliverables such as reports, presentations, and code.
 - [Swiftask](https://www.swiftask.ai) - No-code platform for building and orchestrating multi-model AI agents across a company's tools, with centralized governance.
 
 ### Self-hosted personal AI agents
