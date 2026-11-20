@@ -410,6 +410,7 @@ Proxies sitting in front of model providers to route, meter, and govern traffic.
 
 - [Edgee](https://edgee.ai) - Agent gateway that sits between coding agents and LLM providers, applying budget-driven routing, gateway-side token compression, and per-developer cost attribution across Claude Code, Codex, Cursor, and Copilot.
 - [OpenRouter](https://openrouter.ai) - Unified API and marketplace routing requests across hundreds of models and providers.
+- [UberLLM](https://uberllm.dev) - Prepaid API marketplace with one OpenAI- and Anthropic-compatible key that routes each request for 570+ text, image, video and speech models to a third-party seller at market prices.
 
 ### Sandboxes
 
