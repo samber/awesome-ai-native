@@ -78,6 +78,7 @@ General-purpose conversational assistants you talk to across web, mobile, and de
 - [Gemini](https://gemini.google.com) - Google's multimodal assistant integrated across Workspace, Android, and the Pixel line.
 - [Grok](https://grok.com) - xAI's assistant with real-time access to X and a distinct, less-filtered persona.
 - [Meta AI](https://www.meta.ai) - Assistant embedded across WhatsApp, Instagram, Messenger, and Ray-Ban Meta glasses.
+- [RawMind](https://rawmind.app) - Uncensored conversational AI with reasoning capabilities, web search, and multimodal image and video generation.
 - [Vibe](https://mistral.ai/products/vibe) - Mistral's assistant, formerly Le Chat, unifying chat, work automation, and remote coding agents.
 
 ### General-purpose agents
