@@ -418,6 +418,7 @@ Isolated, ephemeral environments for safely executing AI-generated code.
 - [Daytona](https://www.daytona.io) - Secure, elastic infrastructure for running AI-generated code, with agent sandboxes that spin up in tens of milliseconds.
 - [E2B](https://e2b.dev) - Open-source runtime that gives AI agents isolated cloud sandboxes to execute code.
 - [Modal](https://modal.com) - Serverless Python platform offering on-demand sandboxes for running AI-generated code, model inference, and batch jobs.
+- [Sandscale](https://sandscale.dev) - Hosted Firecracker microVM sandboxes that AI coding agents create over a remote MCP server, CLI or SDK, with per-tool policies and an audit log.
 - [Vercel Sandbox](https://vercel.com/docs/vercel-sandbox) - Ephemeral, isolated microVMs for running untrusted AI-generated code, from Vercel.
 
 ## Developer tooling
