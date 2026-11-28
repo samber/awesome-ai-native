@@ -409,6 +409,7 @@ Self-hosted stacks that schedule, scale, and coordinate model serving across nod
 Proxies sitting in front of model providers to route, meter, and govern traffic.
 
 - [Edgee](https://edgee.ai) - Agent gateway that sits between coding agents and LLM providers, applying budget-driven routing, gateway-side token compression, and per-developer cost attribution across Claude Code, Codex, Cursor, and Copilot.
+- [MartLLM](https://martllm.com) - Prepaid API marketplace (formerly UberLLM) with one OpenAI- and Anthropic-compatible key that routes each request for text, image, video and speech models to a third-party seller.
 - [OpenRouter](https://openrouter.ai) - Unified API and marketplace routing requests across hundreds of models and providers.
 
 ### Sandboxes
